@@ -19,6 +19,6 @@ pids
 /reports/
 
 /.eslintcache
-/bundle.js
-/bundle.js.map
-/index.html
+#/bundle.js
+#/bundle.js.map
+#/index.html
