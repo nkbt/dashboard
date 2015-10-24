@@ -7,3 +7,5 @@
 [![devDependency Status](https://david-dm.org/nkbt/dashboard/dev-status.svg)](https://david-dm.org/nkbt/dashboard#info=devDependencies)
 
 Dashboard with all my active projects
+
+See dashboard: http://nkbt.github.io/dashboard
