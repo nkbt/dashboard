@@ -10,3 +10,6 @@
 /circle.yml
 /karma.conf.js
 /webpack.config.*
+/index.html
+/bundle.js.map
+/bundle.js

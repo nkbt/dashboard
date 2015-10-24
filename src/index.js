@@ -1,4 +1,4 @@
-import Component from './Component';
+import Dashboard from './Dashboard';
 
 
-export default Component;
+export default Dashboard;

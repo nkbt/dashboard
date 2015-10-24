@@ -9,7 +9,7 @@ var path = require('path');
 module.exports = {
   devtool: 'source-map',
   entry: './src/example/Example.js',
-  output: {filename: 'bundle.js', path: path.resolve('example')},
+  output: {filename: 'bundle.js', path: path.resolve('.')},
   plugins: [
     new HtmlWebpackPlugin(),
     new webpack.DefinePlugin({
